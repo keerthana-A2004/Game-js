@@ -12,12 +12,10 @@ body{
 button {
   padding: 10px 25px;
   font-size: 16px;
-  cursor: pointer;
   border: none;
   border-radius: 5px;
   background-color: #08f;
   color: white #00c3ff;
-  transition: background-color 0.3s ease;
 }
 
 button:hover {
@@ -30,8 +28,4 @@ button:hover {
   min-height: 24px;
 }
 
-#attempts {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #ccc;
-}
+
